@@ -55,7 +55,7 @@ TODO: GitHub 링크, 프로필 사진 업데이트 필요
 <table>
     <tr>
         <td>
-            <img  src="#"  width="100px;" alt=""/>
+            <img  src="https://avatars.githubusercontent.com/u/121078267?v=4"  width="100px;" alt=""/>
         </td>
         <td>
             <img  src="https://avatars.githubusercontent.com/u/72656661?v=4"  width="100px;" alt=""/>
